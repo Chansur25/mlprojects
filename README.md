@@ -1,3 +1,3 @@
 ## End to End ML projects
-
-To Predict Student score 
+# Predict Student score 
+The primary goal is to predict student scores accurately based on historical data and relevant features.
